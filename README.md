@@ -55,27 +55,26 @@ A primeira aba está relacionada a indicativos das agências. Aqui é disposto o
 
 Para filtro, foi disponibilizado no canto superior direito a opção de selecionar por conta Ativa ou Inativa. E é possível fazer o filtro selecionando uma das colunas de Contagem de Contas por Agência ou o círculo na UF dos colaboradores.
 
-![](Aspose.Words.f79437d1-da27-4c09-9cfe-9331b6765f0b.001.jpeg)Fonte: Dashboard BanVic	
+![](https://raw.githubusercontent.com/caiombribeiro/lighthouse_estudo/main/imagens/agencias.jpg)
 
 A segunda aba está relacionada aos clientes da BanVic. Nesse, também temos como indicadores presentes o número total de clientes, a soma total de contas e o mapa com a quantidade de clientes pelo Brasil.  As maiores diferenças aqui se devem a existência da taxa de clientes ativos, o gráfico de faixa etária dos clientes e o filtro de agência.
 
-![](Aspose.Words.f79437d1-da27-4c09-9cfe-9331b6765f0b.002.jpeg)
-
-Fonte: Dashboard BanVic
+![](https://raw.githubusercontent.com/caiombribeiro/lighthouse_estudo/main/imagens/clientes.jpg)
 
 
 
 
 
-![](Aspose.Words.f79437d1-da27-4c09-9cfe-9331b6765f0b.003.jpeg)A terceira aba é referente às propostas de crédito. Aqui os indicadores analisados são o número de propostas, taxa de aprovação das propostas, média das propostas, média da entrada, número de parcelas média e média do financiamento. Para filtro, temos o status da proposta e a data inicial, assim como a agência que recebeu a proposta. 
 
-Fonte: Dashboard BanVic
+A terceira aba é referente às propostas de crédito. Aqui os indicadores analisados são o número de propostas, taxa de aprovação das propostas, média das propostas, média da entrada, número de parcelas média e média do financiamento. Para filtro, temos o status da proposta e a data inicial, assim como a agência que recebeu a proposta. 
+
+![](https://raw.githubusercontent.com/caiombribeiro/lighthouse_estudo/main/imagens/proposta_credito.jpg)
+
 
 A quarta aba e última é referente as transações presentes na BanVic. Aqui temos o número de contas, total de valores das transações e quantidade de transações feitas. Os gráficos são referentes, da esquerda para a direita, sobre o valor total de transações por período e a contagem de transações por tipo. Pode ser filtrado pelo estado do cliente e data inclusive.
 
-![](Aspose.Words.f79437d1-da27-4c09-9cfe-9331b6765f0b.004.jpeg)
+![](https://raw.githubusercontent.com/caiombribeiro/lighthouse_estudo/main/imagens/transacoes.jpg)
 
-Fonte: Dashboard BanVic
 
 ## Insights e Resultados
 
